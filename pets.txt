@@ -2,3 +2,6 @@ cats
 dogs
 turtles
 iguanas
+
+My favorite pet of all is:
+dog
